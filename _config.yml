@@ -1,0 +1,29 @@
+permalink: /:year/:month/:day/:title.html
+markdown: kramdown
+
+kramdown:
+  input: GFM
+
+# 作者信息
+author:
+  name: kylo
+  email: kylo.zw@gmail.com
+  link: http://****.****
+  weibo: http://weibo.com/kylozhang
+  github: https://github.com/kylozw
+
+# 站点信息
+title: kylo's blog
+description: kylo's博客
+url: http://kylozw.github.io
+rss_url: /pages/atom.xml
+
+#多说配置
+duoshuo_short_name: kylo
+
+#Google站内搜索
+google_cx: google
+
+# avatar头像及Favicon
+avatar: http://tp4.sinaimg.cn/2591684931/180/5629372297/1
+favicon: http://tp4.sinaimg.cn/2591684931/180/5629372297/1
