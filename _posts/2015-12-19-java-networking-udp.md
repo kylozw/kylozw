@@ -17,6 +17,7 @@ icon: globe
 - 通过DatagramSocket接收数据  
 
 数据报套接字（DatagramSocket）是Java的网络通讯方式，它通过UDP而不是TCP实现。UDP位于IP层的上层，可以使用数据报套接字来发送和接收UDP数据包。  
+
 # UDP vs. TCP #
 UDP的工作原理和TCP稍有不同。通过TCP发送数据时，需要先创建一个TCP连接。只要连接建立，TCP就能确保你的数据成功到达接收方，否则它将告知你发生了错误。  
 
